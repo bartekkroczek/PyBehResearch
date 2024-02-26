@@ -1,2 +1,2 @@
-# PyBehResearch
-Workbook entitled "Python for Behavioral Research"
+# StatIntro
+A continuously updated textbook designed for an introductory course in Statistics.
