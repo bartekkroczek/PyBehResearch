@@ -1,0 +1,452 @@
+14.1673 	WARNING 	User requested fullscreen with size [1536  864], but screen is actually [1920, 1080]. Using actual size
+15.6385 	INFO 	FRAME RATE: 60
+15.6385 	INFO 	SCREEN RES: odict_values([1536, 864])
+15.6977 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=100.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='+', units='pix', win=Window(...), wrapWidth=500)
+15.7020 	EXP 	Created unnamed Circle = Circle(__class__=<class 'psychopy.visual.circle.Circle'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0, fillColor=array([ 0.09019608, -1.        , -1.        ]), fillColorSpace='rgb', fillRGB=array([ 0.09019608, -1.        , -1.        ]), interpolate=True, lineColor=array([ 0.09019608, -1.        , -1.        ]), lineColorSpace='rgb', lineRGB=array([ 0.09019608, -1.        , -1.        ]), lineWidth=1.5, name='unnamed Circle', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...))
+15.7032 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-0.17647059, -0.17647059, -0.17647059]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=25, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='pix', win=Window(...), wrapWidth=500)
+15.7098 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='mask4.png', interpolate=False, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([25., 25.]), texRes=128, units='pix', win=Window(...))
+15.7184 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=30.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 100., -300.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=10000)
+15.7230 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=30.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([ 100., -330.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=10000)
+15.7593 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=1536)
+45.0282 	DATA 	Keypress: space
+45.0381 	EXP 	unnamed TextStim: height = 25.0
+45.0381 	EXP 	unnamed TextStim: height = 25.0
+45.0381 	EXP 	unnamed TextStim: height = 25.0
+45.0381 	EXP 	unnamed TextStim: text = 'z'
+47.2672 	DATA 	Keypress: z
+47.2765 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+48.2885 	EXP 	unnamed TextStim: height = 25.0
+48.2885 	EXP 	unnamed TextStim: height = 25.0
+48.2885 	EXP 	unnamed TextStim: height = 25.0
+48.2885 	EXP 	unnamed TextStim: text = 'x'
+50.1656 	DATA 	Keypress: x
+50.1677 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+51.1718 	EXP 	unnamed TextStim: text = 'x'
+52.7863 	DATA 	Keypress: x
+52.7883 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+53.8054 	EXP 	unnamed TextStim: text = 'x'
+55.3005 	DATA 	Keypress: x
+55.3026 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+56.3055 	EXP 	unnamed TextStim: text = 'x'
+57.7862 	DATA 	Keypress: x
+57.7881 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+58.8055 	EXP 	unnamed TextStim: height = 25.0
+58.8055 	EXP 	unnamed TextStim: height = 25.0
+58.8055 	EXP 	unnamed TextStim: height = 25.0
+58.8055 	EXP 	unnamed TextStim: text = 'n'
+60.5797 	DATA 	Keypress: n
+60.5818 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+61.5889 	EXP 	unnamed TextStim: height = 25.0
+61.5889 	EXP 	unnamed TextStim: height = 25.0
+61.5889 	EXP 	unnamed TextStim: height = 25.0
+61.5889 	EXP 	unnamed TextStim: text = 'x'
+63.2157 	DATA 	Keypress: x
+63.2184 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+64.2226 	EXP 	unnamed TextStim: height = 25.0
+64.2226 	EXP 	unnamed TextStim: height = 25.0
+64.2226 	EXP 	unnamed TextStim: height = 25.0
+64.2226 	EXP 	unnamed TextStim: text = 'n'
+66.1358 	DATA 	Keypress: n
+66.1383 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+67.1558 	EXP 	unnamed TextStim: height = 25.0
+67.1558 	EXP 	unnamed TextStim: height = 25.0
+67.1558 	EXP 	unnamed TextStim: height = 25.0
+67.1558 	EXP 	unnamed TextStim: text = 'm'
+68.6914 	DATA 	Keypress: m
+68.6934 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+69.7059 	EXP 	unnamed TextStim: height = 25.0
+69.7059 	EXP 	unnamed TextStim: height = 25.0
+69.7059 	EXP 	unnamed TextStim: height = 25.0
+69.7059 	EXP 	unnamed TextStim: text = 'x'
+71.8823 	DATA 	Keypress: n
+71.8861 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Niepoprawnie', units='pix', win=Window(...), wrapWidth=500)
+72.8902 	EXP 	unnamed TextStim: height = 25.0
+72.8902 	EXP 	unnamed TextStim: height = 25.0
+72.8902 	EXP 	unnamed TextStim: height = 25.0
+72.8902 	EXP 	unnamed TextStim: text = 'n'
+74.5111 	DATA 	Keypress: n
+74.5137 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+75.5228 	EXP 	unnamed TextStim: height = 25.0
+75.5228 	EXP 	unnamed TextStim: height = 25.0
+75.5228 	EXP 	unnamed TextStim: height = 25.0
+75.5228 	EXP 	unnamed TextStim: text = 'z'
+77.3552 	DATA 	Keypress: z
+77.3572 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+78.3727 	EXP 	unnamed TextStim: height = 25.0
+78.3727 	EXP 	unnamed TextStim: height = 25.0
+78.3727 	EXP 	unnamed TextStim: height = 25.0
+78.3727 	EXP 	unnamed TextStim: text = 'x'
+79.9217 	DATA 	Keypress: x
+79.9242 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+80.9397 	EXP 	unnamed TextStim: height = 25.0
+80.9397 	EXP 	unnamed TextStim: height = 25.0
+80.9397 	EXP 	unnamed TextStim: height = 25.0
+80.9397 	EXP 	unnamed TextStim: text = 'm'
+82.6271 	DATA 	Keypress: m
+82.6295 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+83.6398 	EXP 	unnamed TextStim: height = 25.0
+83.6398 	EXP 	unnamed TextStim: height = 25.0
+83.6398 	EXP 	unnamed TextStim: height = 25.0
+83.6398 	EXP 	unnamed TextStim: text = 'n'
+85.0403 	DATA 	Keypress: n
+85.0456 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+86.0876 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=1536)
+88.1410 	DATA 	Keypress: space
+88.1565 	EXP 	unnamed TextStim: text = 'n'
+89.9713 	DATA 	Keypress: n
+89.9783 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+90.9900 	EXP 	unnamed TextStim: text = 'n'
+92.3744 	DATA 	Keypress: n
+92.3767 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+93.3902 	EXP 	unnamed TextStim: height = 25.0
+93.3902 	EXP 	unnamed TextStim: height = 25.0
+93.3902 	EXP 	unnamed TextStim: height = 25.0
+93.3902 	EXP 	unnamed TextStim: text = 'z'
+94.9625 	DATA 	Keypress: z
+94.9650 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+95.9733 	EXP 	unnamed TextStim: height = 25.0
+95.9733 	EXP 	unnamed TextStim: height = 25.0
+95.9733 	EXP 	unnamed TextStim: height = 25.0
+95.9733 	EXP 	unnamed TextStim: text = 'm'
+97.6450 	DATA 	Keypress: m
+97.6470 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+98.6570 	EXP 	unnamed TextStim: height = 25.0
+98.6570 	EXP 	unnamed TextStim: height = 25.0
+98.6570 	EXP 	unnamed TextStim: height = 25.0
+98.6570 	EXP 	unnamed TextStim: text = 'n'
+100.5483 	DATA 	Keypress: n
+100.5503 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+101.5571 	EXP 	unnamed TextStim: height = 25.0
+101.5571 	EXP 	unnamed TextStim: height = 25.0
+101.5571 	EXP 	unnamed TextStim: height = 25.0
+101.5571 	EXP 	unnamed TextStim: text = 'x'
+102.9984 	DATA 	Keypress: x
+103.0004 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+104.0072 	EXP 	unnamed TextStim: height = 25.0
+104.0072 	EXP 	unnamed TextStim: height = 25.0
+104.0072 	EXP 	unnamed TextStim: height = 25.0
+104.0072 	EXP 	unnamed TextStim: text = 'n'
+105.3933 	DATA 	Keypress: n
+105.3957 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+106.4073 	EXP 	unnamed TextStim: height = 25.0
+106.4073 	EXP 	unnamed TextStim: height = 25.0
+106.4073 	EXP 	unnamed TextStim: height = 25.0
+106.4073 	EXP 	unnamed TextStim: text = 'x'
+107.8262 	DATA 	Keypress: x
+107.8284 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+108.8406 	EXP 	unnamed TextStim: height = 25.0
+108.8406 	EXP 	unnamed TextStim: height = 25.0
+108.8406 	EXP 	unnamed TextStim: height = 25.0
+108.8406 	EXP 	unnamed TextStim: text = 'm'
+110.2369 	DATA 	Keypress: m
+110.2388 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Poprawnie', units='pix', win=Window(...), wrapWidth=500)
+111.2575 	EXP 	unnamed TextStim: text = 'm'
+113.0329 	DATA 	Keypress: n
+113.0363 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=50.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Niepoprawnie', units='pix', win=Window(...), wrapWidth=500)
+114.0657 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=1536)
+119.8799 	DATA 	Keypress: space
+119.8909 	EXP 	unnamed TextStim: text = 'm'
+121.6846 	DATA 	Keypress: n
+121.6877 	EXP 	unnamed TextStim: height = 25.0
+121.6877 	EXP 	unnamed TextStim: height = 25.0
+121.6877 	EXP 	unnamed TextStim: height = 25.0
+121.6877 	EXP 	unnamed TextStim: text = 'z'
+123.4287 	DATA 	Keypress: x
+123.4313 	EXP 	unnamed TextStim: height = 25.0
+123.4313 	EXP 	unnamed TextStim: height = 25.0
+123.4313 	EXP 	unnamed TextStim: height = 25.0
+123.4313 	EXP 	unnamed TextStim: text = 'x'
+125.2579 	DATA 	Keypress: z
+125.2604 	EXP 	unnamed TextStim: height = 25.0
+125.2604 	EXP 	unnamed TextStim: height = 25.0
+125.2604 	EXP 	unnamed TextStim: height = 25.0
+125.2604 	EXP 	unnamed TextStim: text = 'z'
+126.8888 	DATA 	Keypress: z
+126.8900 	EXP 	unnamed TextStim: text = 'z'
+128.7390 	DATA 	Keypress: n
+128.7417 	EXP 	unnamed TextStim: height = 25.0
+128.7417 	EXP 	unnamed TextStim: height = 25.0
+128.7417 	EXP 	unnamed TextStim: height = 25.0
+128.7417 	EXP 	unnamed TextStim: text = 'm'
+130.6788 	DATA 	Keypress: m
+130.8357 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+132.1645 	DATA 	Keypress: space
+132.1750 	EXP 	unnamed TextStim: height = 25.0
+132.1750 	EXP 	unnamed TextStim: height = 25.0
+132.1750 	EXP 	unnamed TextStim: height = 25.0
+132.1750 	EXP 	unnamed TextStim: text = 'x'
+134.1566 	DATA 	Keypress: z
+134.1587 	EXP 	unnamed TextStim: height = 25.0
+134.1587 	EXP 	unnamed TextStim: height = 25.0
+134.1587 	EXP 	unnamed TextStim: height = 25.0
+134.1587 	EXP 	unnamed TextStim: text = 'z'
+135.7744 	DATA 	Keypress: x
+135.7757 	EXP 	unnamed TextStim: text = 'z'
+137.3670 	DATA 	Keypress: z
+137.3694 	EXP 	unnamed TextStim: height = 25.0
+137.3694 	EXP 	unnamed TextStim: height = 25.0
+137.3694 	EXP 	unnamed TextStim: height = 25.0
+137.3694 	EXP 	unnamed TextStim: text = 'n'
+139.0117 	DATA 	Keypress: n
+139.0138 	EXP 	unnamed TextStim: height = 25.0
+139.0138 	EXP 	unnamed TextStim: height = 25.0
+139.0138 	EXP 	unnamed TextStim: height = 25.0
+139.0138 	EXP 	unnamed TextStim: text = 'm'
+140.7193 	DATA 	Keypress: m
+140.7206 	EXP 	unnamed TextStim: text = 'm'
+142.3025 	DATA 	Keypress: m
+142.4545 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+143.6395 	DATA 	Keypress: space
+143.6423 	EXP 	unnamed TextStim: height = 25.0
+143.6423 	EXP 	unnamed TextStim: height = 25.0
+143.6423 	EXP 	unnamed TextStim: height = 25.0
+143.6423 	EXP 	unnamed TextStim: text = 'x'
+145.4896 	DATA 	Keypress: x
+145.4908 	EXP 	unnamed TextStim: text = 'x'
+147.0520 	DATA 	Keypress: n
+147.0532 	EXP 	unnamed TextStim: text = 'x'
+148.6006 	DATA 	Keypress: x
+148.6017 	EXP 	unnamed TextStim: text = 'x'
+150.3018 	DATA 	Keypress: x
+150.3085 	EXP 	unnamed TextStim: height = 25.0
+150.3085 	EXP 	unnamed TextStim: height = 25.0
+150.3085 	EXP 	unnamed TextStim: height = 25.0
+150.3085 	EXP 	unnamed TextStim: text = 'z'
+151.8415 	DATA 	Keypress: z
+151.8428 	EXP 	unnamed TextStim: text = 'z'
+153.4590 	DATA 	Keypress: z
+153.5810 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+154.9344 	DATA 	Keypress: space
+154.9424 	EXP 	unnamed TextStim: height = 25.0
+154.9424 	EXP 	unnamed TextStim: height = 25.0
+154.9424 	EXP 	unnamed TextStim: height = 25.0
+154.9424 	EXP 	unnamed TextStim: text = 'm'
+156.3558 	DATA 	Keypress: m
+156.3579 	EXP 	unnamed TextStim: height = 25.0
+156.3579 	EXP 	unnamed TextStim: height = 25.0
+156.3579 	EXP 	unnamed TextStim: height = 25.0
+156.3579 	EXP 	unnamed TextStim: text = 'x'
+157.8908 	DATA 	Keypress: x
+157.8929 	EXP 	unnamed TextStim: height = 25.0
+157.8929 	EXP 	unnamed TextStim: height = 25.0
+157.8929 	EXP 	unnamed TextStim: height = 25.0
+157.8929 	EXP 	unnamed TextStim: text = 'm'
+159.6717 	DATA 	Keypress: n
+159.6739 	EXP 	unnamed TextStim: height = 25.0
+159.6739 	EXP 	unnamed TextStim: height = 25.0
+159.6739 	EXP 	unnamed TextStim: height = 25.0
+159.6739 	EXP 	unnamed TextStim: text = 'x'
+161.3247 	DATA 	Keypress: x
+161.3270 	EXP 	unnamed TextStim: height = 25.0
+161.3270 	EXP 	unnamed TextStim: height = 25.0
+161.3270 	EXP 	unnamed TextStim: height = 25.0
+161.3270 	EXP 	unnamed TextStim: text = 'n'
+162.8193 	DATA 	Keypress: n
+162.8205 	EXP 	unnamed TextStim: text = 'n'
+164.8912 	DATA 	Keypress: m
+165.0170 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+166.2105 	DATA 	Keypress: space
+166.2260 	EXP 	unnamed TextStim: height = 25.0
+166.2260 	EXP 	unnamed TextStim: height = 25.0
+166.2260 	EXP 	unnamed TextStim: height = 25.0
+166.2260 	EXP 	unnamed TextStim: text = 'x'
+167.7378 	DATA 	Keypress: x
+167.7400 	EXP 	unnamed TextStim: height = 25.0
+167.7400 	EXP 	unnamed TextStim: height = 25.0
+167.7400 	EXP 	unnamed TextStim: height = 25.0
+167.7400 	EXP 	unnamed TextStim: text = 'n'
+169.4308 	DATA 	Keypress: x
+169.4375 	EXP 	unnamed TextStim: height = 25.0
+169.4375 	EXP 	unnamed TextStim: height = 25.0
+169.4375 	EXP 	unnamed TextStim: height = 25.0
+169.4375 	EXP 	unnamed TextStim: text = 'x'
+171.0513 	DATA 	Keypress: x
+171.0536 	EXP 	unnamed TextStim: height = 25.0
+171.0536 	EXP 	unnamed TextStim: height = 25.0
+171.0536 	EXP 	unnamed TextStim: height = 25.0
+171.0536 	EXP 	unnamed TextStim: text = 'm'
+172.4915 	DATA 	Keypress: m
+172.4927 	EXP 	unnamed TextStim: text = 'm'
+174.1666 	DATA 	Keypress: n
+174.1687 	EXP 	unnamed TextStim: height = 25.0
+174.1687 	EXP 	unnamed TextStim: height = 25.0
+174.1687 	EXP 	unnamed TextStim: height = 25.0
+174.1687 	EXP 	unnamed TextStim: text = 'n'
+175.7503 	DATA 	Keypress: n
+175.8607 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+177.1193 	DATA 	Keypress: space
+177.1266 	EXP 	unnamed TextStim: height = 25.0
+177.1266 	EXP 	unnamed TextStim: height = 25.0
+177.1266 	EXP 	unnamed TextStim: height = 25.0
+177.1266 	EXP 	unnamed TextStim: text = 'x'
+178.7124 	DATA 	Keypress: x
+178.7146 	EXP 	unnamed TextStim: height = 25.0
+178.7146 	EXP 	unnamed TextStim: height = 25.0
+178.7146 	EXP 	unnamed TextStim: height = 25.0
+178.7146 	EXP 	unnamed TextStim: text = 'z'
+180.3785 	DATA 	Keypress: z
+180.3808 	EXP 	unnamed TextStim: height = 25.0
+180.3808 	EXP 	unnamed TextStim: height = 25.0
+180.3808 	EXP 	unnamed TextStim: height = 25.0
+180.3808 	EXP 	unnamed TextStim: text = 'm'
+181.9711 	DATA 	Keypress: m
+181.9723 	EXP 	unnamed TextStim: text = 'm'
+183.4558 	DATA 	Keypress: m
+183.4579 	EXP 	unnamed TextStim: height = 25.0
+183.4579 	EXP 	unnamed TextStim: height = 25.0
+183.4579 	EXP 	unnamed TextStim: height = 25.0
+183.4579 	EXP 	unnamed TextStim: text = 'x'
+185.1735 	DATA 	Keypress: n
+185.1756 	EXP 	unnamed TextStim: height = 25.0
+185.1756 	EXP 	unnamed TextStim: height = 25.0
+185.1756 	EXP 	unnamed TextStim: height = 25.0
+185.1756 	EXP 	unnamed TextStim: text = 'n'
+186.8074 	DATA 	Keypress: x
+186.9295 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+187.9182 	DATA 	Keypress: space
+187.9268 	EXP 	unnamed TextStim: height = 25.0
+187.9268 	EXP 	unnamed TextStim: height = 25.0
+187.9268 	EXP 	unnamed TextStim: height = 25.0
+187.9268 	EXP 	unnamed TextStim: text = 'x'
+189.3614 	DATA 	Keypress: x
+189.3636 	EXP 	unnamed TextStim: height = 25.0
+189.3636 	EXP 	unnamed TextStim: height = 25.0
+189.3636 	EXP 	unnamed TextStim: height = 25.0
+189.3636 	EXP 	unnamed TextStim: text = 'n'
+191.2726 	DATA 	Keypress: z
+191.2738 	EXP 	unnamed TextStim: text = 'n'
+192.6581 	DATA 	Keypress: n
+192.6602 	EXP 	unnamed TextStim: height = 25.0
+192.6602 	EXP 	unnamed TextStim: height = 25.0
+192.6602 	EXP 	unnamed TextStim: height = 25.0
+192.6602 	EXP 	unnamed TextStim: text = 'x'
+194.2260 	DATA 	Keypress: x
+194.2272 	EXP 	unnamed TextStim: text = 'x'
+195.7841 	DATA 	Keypress: x
+195.7854 	EXP 	unnamed TextStim: text = 'x'
+197.1775 	DATA 	Keypress: x
+197.2925 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+198.3397 	DATA 	Keypress: space
+198.3441 	EXP 	unnamed TextStim: height = 25.0
+198.3441 	EXP 	unnamed TextStim: height = 25.0
+198.3441 	EXP 	unnamed TextStim: height = 25.0
+198.3441 	EXP 	unnamed TextStim: text = 'm'
+199.7110 	DATA 	Keypress: m
+199.7131 	EXP 	unnamed TextStim: height = 25.0
+199.7131 	EXP 	unnamed TextStim: height = 25.0
+199.7131 	EXP 	unnamed TextStim: height = 25.0
+199.7131 	EXP 	unnamed TextStim: text = 'z'
+201.1938 	DATA 	Keypress: x
+201.1958 	EXP 	unnamed TextStim: height = 25.0
+201.1958 	EXP 	unnamed TextStim: height = 25.0
+201.1958 	EXP 	unnamed TextStim: height = 25.0
+201.1958 	EXP 	unnamed TextStim: text = 'm'
+202.8085 	DATA 	Keypress: m
+202.8106 	EXP 	unnamed TextStim: height = 25.0
+202.8106 	EXP 	unnamed TextStim: height = 25.0
+202.8106 	EXP 	unnamed TextStim: height = 25.0
+202.8106 	EXP 	unnamed TextStim: text = 'x'
+204.4099 	DATA 	Keypress: x
+204.4121 	EXP 	unnamed TextStim: height = 25.0
+204.4121 	EXP 	unnamed TextStim: height = 25.0
+204.4121 	EXP 	unnamed TextStim: height = 25.0
+204.4121 	EXP 	unnamed TextStim: text = 'm'
+205.8705 	DATA 	Keypress: m
+205.8751 	EXP 	unnamed TextStim: height = 25.0
+205.8751 	EXP 	unnamed TextStim: height = 25.0
+205.8751 	EXP 	unnamed TextStim: height = 25.0
+205.8751 	EXP 	unnamed TextStim: text = 'n'
+207.5221 	DATA 	Keypress: n
+207.6560 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+208.6205 	DATA 	Keypress: space
+208.6277 	EXP 	unnamed TextStim: height = 25.0
+208.6277 	EXP 	unnamed TextStim: height = 25.0
+208.6277 	EXP 	unnamed TextStim: height = 25.0
+208.6277 	EXP 	unnamed TextStim: text = 'x'
+210.3177 	DATA 	Keypress: x
+210.3200 	EXP 	unnamed TextStim: height = 25.0
+210.3200 	EXP 	unnamed TextStim: height = 25.0
+210.3200 	EXP 	unnamed TextStim: height = 25.0
+210.3200 	EXP 	unnamed TextStim: text = 'z'
+211.8027 	DATA 	Keypress: z
+211.8040 	EXP 	unnamed TextStim: text = 'z'
+213.5893 	DATA 	Keypress: z
+213.5915 	EXP 	unnamed TextStim: height = 25.0
+213.5915 	EXP 	unnamed TextStim: height = 25.0
+213.5915 	EXP 	unnamed TextStim: height = 25.0
+213.5915 	EXP 	unnamed TextStim: text = 'm'
+215.2021 	DATA 	Keypress: m
+215.2042 	EXP 	unnamed TextStim: height = 25.0
+215.2042 	EXP 	unnamed TextStim: height = 25.0
+215.2042 	EXP 	unnamed TextStim: height = 25.0
+215.2042 	EXP 	unnamed TextStim: text = 'n'
+216.9141 	DATA 	Keypress: x
+216.9162 	EXP 	unnamed TextStim: height = 25.0
+216.9162 	EXP 	unnamed TextStim: height = 25.0
+216.9162 	EXP 	unnamed TextStim: height = 25.0
+216.9162 	EXP 	unnamed TextStim: text = 'm'
+218.5157 	DATA 	Keypress: m
+218.6499 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+219.9480 	DATA 	Keypress: space
+219.9614 	EXP 	unnamed TextStim: text = 'm'
+221.4251 	DATA 	Keypress: m
+221.4272 	EXP 	unnamed TextStim: height = 25.0
+221.4272 	EXP 	unnamed TextStim: height = 25.0
+221.4272 	EXP 	unnamed TextStim: height = 25.0
+221.4272 	EXP 	unnamed TextStim: text = 'n'
+222.8467 	DATA 	Keypress: n
+222.8489 	EXP 	unnamed TextStim: height = 25.0
+222.8489 	EXP 	unnamed TextStim: height = 25.0
+222.8489 	EXP 	unnamed TextStim: height = 25.0
+222.8489 	EXP 	unnamed TextStim: text = 'm'
+224.9154 	DATA 	Keypress: x
+224.9259 	EXP 	unnamed TextStim: height = 25.0
+224.9259 	EXP 	unnamed TextStim: height = 25.0
+224.9259 	EXP 	unnamed TextStim: height = 25.0
+224.9259 	EXP 	unnamed TextStim: text = 'n'
+226.4983 	DATA 	Keypress: x
+226.5005 	EXP 	unnamed TextStim: height = 25.0
+226.5005 	EXP 	unnamed TextStim: height = 25.0
+226.5005 	EXP 	unnamed TextStim: height = 25.0
+226.5005 	EXP 	unnamed TextStim: text = 'm'
+228.0774 	DATA 	Keypress: x
+228.0795 	EXP 	unnamed TextStim: height = 25.0
+228.0795 	EXP 	unnamed TextStim: height = 25.0
+228.0795 	EXP 	unnamed TextStim: height = 25.0
+228.0795 	EXP 	unnamed TextStim: text = 'z'
+230.1483 	DATA 	Keypress: n
+230.2927 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+231.3890 	DATA 	Keypress: space
+231.3953 	EXP 	unnamed TextStim: text = 'z'
+232.9747 	DATA 	Keypress: x
+232.9769 	EXP 	unnamed TextStim: height = 25.0
+232.9769 	EXP 	unnamed TextStim: height = 25.0
+232.9769 	EXP 	unnamed TextStim: height = 25.0
+232.9769 	EXP 	unnamed TextStim: text = 'm'
+234.5995 	DATA 	Keypress: m
+234.6016 	EXP 	unnamed TextStim: height = 25.0
+234.6016 	EXP 	unnamed TextStim: height = 25.0
+234.6016 	EXP 	unnamed TextStim: height = 25.0
+234.6016 	EXP 	unnamed TextStim: text = 'n'
+236.2263 	DATA 	Keypress: n
+236.2288 	EXP 	unnamed TextStim: height = 25.0
+236.2288 	EXP 	unnamed TextStim: height = 25.0
+236.2288 	EXP 	unnamed TextStim: height = 25.0
+236.2288 	EXP 	unnamed TextStim: text = 'x'
+237.8350 	DATA 	Keypress: x
+237.8372 	EXP 	unnamed TextStim: height = 25.0
+237.8372 	EXP 	unnamed TextStim: height = 25.0
+237.8372 	EXP 	unnamed TextStim: height = 25.0
+237.8372 	EXP 	unnamed TextStim: text = 'm'
+239.2666 	DATA 	Keypress: m
+239.2687 	EXP 	unnamed TextStim: height = 25.0
+239.2687 	EXP 	unnamed TextStim: height = 25.0
+239.2687 	EXP 	unnamed TextStim: height = 25.0
+239.2687 	EXP 	unnamed TextStim: text = 'z'
+240.7667 	DATA 	Keypress: x
+240.8847 	EXP 	Created unnamed ImageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, image='break.jpg', interpolate=True, mask=None, maskParams=None, name='unnamed ImageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1536.,  864.]), texRes=128, units='pix', win=Window(...))
+241.9816 	DATA 	Keypress: space
+242.0025 	EXP 	Created unnamed TextStim = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([-1, -1, -1]), colorSpace='rgb', contrast=1.0, depth=0, flipHoriz=False, flipVert=False, font='', fontFiles=[], height=20.0, italic=False, languageStyle='LTR', name='unnamed TextStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='pix', win=Window(...), wrapWidth=1536)
+249.1097 	DATA 	Keypress: x
+270.3730 	DATA 	Keypress: space
+270.4578 	EXP 	window1: mouseVisible = True
